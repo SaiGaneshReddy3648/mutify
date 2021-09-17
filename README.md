@@ -1,5 +1,9 @@
 # mutify
 this is the spotify web player this will supports player,lyrics and searching for songs...
+
+## Download?
+<button><code><a href="https://github.com/SaiGaneshReddy3648/mutify.git" download>Download</a></code></button>
+
 ## you need install dependencies:
 <table>
   <tr>
