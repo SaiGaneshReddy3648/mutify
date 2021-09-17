@@ -2,6 +2,8 @@
 this is the spotify web player this will supports player,lyrics and searching for songs...
 
 ## Download?
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/SaiGaneshReddy3648/mutify/archive/HEAD.zip" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Download SaiGaneshReddy3648/mutify on GitHub">Download</a>
 <button><code><a href="https://github.com/SaiGaneshReddy3648/mutify.git" download>Download</a></code></button>
 
 ## you need install dependencies:
