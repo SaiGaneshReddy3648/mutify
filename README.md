@@ -31,5 +31,7 @@ this is the spotify web player this will supports player,lyrics and searching fo
     <th>spotify-web-api-node :<code>npm i spotify-web-api-node</code></th>
   </tr>
 </table>
+
 ## How start the app?
-we need 'run' firstly "client" side as <code>npm start</code> and then <br> "server" as <code>npm strat</code>
+
+we need 'run' firstly "client" side as <code>npm start</code> <br>and then "server" as <code>npm strat</code>
