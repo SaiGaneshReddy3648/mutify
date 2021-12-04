@@ -14,8 +14,8 @@ this is the spotify web player this will supports player,lyrics and searching fo
     <th>Server</th>
   </tr>
   <tr>
-    <td>axios :<code>npm install axios</code></td>
-    <td>body-parser :<code>npm i body-parser</code></td> 
+    <th>axios :<code>npm install axios</code></th>
+    <th>body-parser :<code>npm i body-parser</code></th> 
   </tr>
   <tr>
     <th>bootstrap :<code>npm install bootstrap</code></th>   
