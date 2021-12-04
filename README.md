@@ -41,4 +41,4 @@ this is the spotify web player this will supports player,lyrics and searching fo
 
 ## How start the app?
 
-we need 'run' firstly "client" side as <code>npm start</code> <br>and then "server" as <code>npm strat</code>
+After installing all the dependencies, 'run' firstly "client" side as <code>npm start</code> <br>and then "server" as <code>npm strat</code>
